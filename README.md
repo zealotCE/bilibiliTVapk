@@ -6,7 +6,6 @@ This is **backup in GitHub**, apk from [bilibilitv吧-百度贴吧](https://wefa
 
 Bugs：
 
-- Activity not work
-
 - some video always 360p
-
+---
+If your activaty/dynamic not work, please unsubscribe up of len(uid) > 16.(this is a history bug)
